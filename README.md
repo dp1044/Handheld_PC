@@ -1,2 +1,2 @@
 # Handheld_PC
-Handheld gaming PC
+These are the files and tutorial for the Handheld gaming PC I made. 
